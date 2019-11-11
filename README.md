@@ -1,5 +1,6 @@
 # Chi-Square-Test
 Chi-Square Test using python
+
 Chi Square Test is Non-Parametric test to be performed for categorical variables. It is used for two different purposes. Most of people usages Chi-Square for only “goodness-of-fit”. But it can be used for “test of association” (also known as test of independence). Let us discuss in more detail regarding these two method in details and how python can help us to calculate these values.
 Test of Association
  Chi-Square test is used to find association between two categorical variables. It is similar to correlation. In Correlation we calculate correlation between two numeric variables. But in Chi-Square Test we usage categorical variables such as gender, grade, type, like/dislike and other types of values. Chi-square will be measured by below formula	
